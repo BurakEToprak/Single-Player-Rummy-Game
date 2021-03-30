@@ -3,7 +3,7 @@ Single Player Rummy Game
 
 Single Player Rummy Game with Dice and strange deck https://www.classicgamesandpuzzles.com/Old-Maid.html take reference from this link , I coded the Rummy Game using Python. One player will be the computer and the other a user of your program. The game alternates between Robot and Human.
 
-#EXAMPLE RUNS OF YOUR GAME:
+# EXAMPLE RUNS OF YOUR GAME:
 RUN 1
 Hello. My name is Robot and I am the dealer. Welcome to my card game! Your current deck of cards is: 6♣ 3♣ 5♢ 7♢ 10♡ 2♣ 5♠ J♡ 5♣ Q♠ K♣ J♠ 10♢ 5♡ 4♠ 2♡ A♢ 10♠ A♣ 6♡ J♣ A♡ 3♠ 8♠ J♢ Q♡ Do not worry. I cannot see the order of your cards Now discard all the pairs from your deck. I will do the same. Press enter to continue.
 
