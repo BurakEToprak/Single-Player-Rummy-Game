@@ -1,4 +1,4 @@
-# Single-Player-Rummy-Game
+# Single-Player-Rummy-Game UNIVERSITY PROJECT
 Single Player Rummy Game
 
 Single Player Rummy Game with Dice and strange deck https://www.classicgamesandpuzzles.com/Old-Maid.html take reference from this link , I coded the Rummy Game using Python. One player will be the computer and the other a user of your program. The game alternates between Robot and Human.
